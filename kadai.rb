@@ -9,5 +9,4 @@
   else
     print("#{i}\n")
   end
-end 
 } 
